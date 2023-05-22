@@ -15,6 +15,14 @@ I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, R
 <code><img src="https://www.futuromediagroup.org/wp-content/uploads/2022/11/FM_News_500-2.png" height=30px></code>
 <code><img src="https://i.ytimg.com/vi/nF4vw3efUwY/maxresdefault.jpg" height=30px></code>
 
+
+<br/>
+
+
+&nbsp; Current location: Tashkent, Uzbekistan
+&nbsp; Ask me any questions about related to Front-End. I will be happy if you ask
+&nbsp; How you contact me:[@akmaljonmordayev@gmail.com](https://instagram.com/akmaljonmordayev/)
+
 <!--
 **akmaljonmordayev/akmaljonmordayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
