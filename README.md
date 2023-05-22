@@ -1,6 +1,8 @@
 ### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px>
 
 
+I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, React, Antd Design, React Query, Zustand
+
 <!--
 **akmaljonmordayev/akmaljonmordayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
