@@ -5,6 +5,15 @@ I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, R
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height=30px></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height=30px></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height=30px></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height=30px></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height=30px></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height=30px></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=30px></code>
+<code><img src="https://www.shutterstock.com/image-vector/ant-vector-design-logo-illustration-600w-1642003918.jpg" height=30px></code>
+<code><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height=30px></code>
+<code><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height=30px></code>
+<code><img src="https://i.ytimg.com/vi/nF4vw3efUwY/maxresdefault.jpg" height=30px></code>
 
 <!--
 **akmaljonmordayev/akmaljonmordayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
