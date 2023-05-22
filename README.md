@@ -1,4 +1,4 @@
-### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/PUE7NHFFQ0j6rkFZgV/giphy.gif?cid=ecf05e47k5td2zl0qenri5oznlqkhuesr0w9d06ff3licole&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=100px>
+### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px>
 
 
 <!--
