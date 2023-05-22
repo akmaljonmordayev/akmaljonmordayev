@@ -3,7 +3,7 @@
 
 I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, React, Antd Design, React Query, Axios, React Hook Form
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height=30px></code>
 
 <!--
 **akmaljonmordayev/akmaljonmordayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
