@@ -13,7 +13,7 @@ I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, R
 <code><img src="https://www.futuromediagroup.org/wp-content/uploads/2022/11/FM_News_500-2.png" height=30px></code>
 <code><img src="https://i.ytimg.com/vi/nF4vw3efUwY/maxresdefault.jpg" height=30px></code>
 <code><img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" height=30px></code>
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height=30px></code>
 
 <br/>
 
