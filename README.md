@@ -23,7 +23,8 @@ I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, R
 -&nbsp; How you contact me : https://instagram.com/akmaljonmordayev/ <br/>
 
 
-![Snake animation](https://github.com/akmaljonmordayev/akmaljonmordayev/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/yourusername/snake/main/snake.gif" width="100%" />
+
 
 
 <!--
