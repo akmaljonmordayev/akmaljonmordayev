@@ -22,9 +22,13 @@ I specialize in creating **responsive, interactive, and user-friendly interfaces
 
 ### 🌐 Connect with me
 
-- 📍 Location: Tashkent, Uzbekistan  
-- 📫 Contact me: [Instagram](https://instagram.com/akmaljonmordayev/)  
-- 💬 Ask me about Front-End, React, JS, UI/UX design  
+- 📍 **Location:** Tashkent, Uzbekistan  
+- 📫 **Instagram:** [@akmaljonmordayev](https://instagram.com/akmaljonmordayev/)  
+- 💬 **Telegram:**  
+  <a href="https://t.me/Mr_Akmal_dev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>  
+- 🧑‍💻 **Ask me anything about:** Front-End, React, JS, UI/UX design  
 
 ---
 
@@ -34,17 +38,17 @@ I’m a **passionate Front-End Developer** with experience in building dynamic, 
 I love working with **React, JavaScript, CSS frameworks, and modern web technologies** to create engaging user experiences.  
 
 **What I bring to the table:**
-- Clean, maintainable, and efficient code.  
-- Expertise in modern Front-End libraries and tools.  
-- Enthusiasm for learning and staying up-to-date with the latest web trends.  
-- Problem-solving skills to tackle complex UI challenges.  
+- Clean, maintainable, and efficient code  
+- Expertise in modern Front-End libraries and tools  
+- Enthusiasm for learning and staying up-to-date with the latest web trends  
+- Problem-solving skills to tackle complex UI challenges  
 
 ---
 
 ### 💡 Fun Facts
-- I enjoy **creating interactive web interfaces**.  
-- I love **experimenting with animations, transitions, and modern UI effects**.  
-- Always **keen on learning new Front-End technologies**.  
+- I enjoy **creating interactive web interfaces**  
+- I love **experimenting with animations, transitions, and modern UI effects**  
+- Always **keen on learning new Front-End technologies**  
 
 ---
 
