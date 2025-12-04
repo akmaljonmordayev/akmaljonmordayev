@@ -1,44 +1,57 @@
-1### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px>
+### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
+I am a **Front-End Developer** passionate about building beautiful and functional web applications.  
+I specialize in creating **responsive, interactive, and user-friendly interfaces**.  
 
-I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, React, Antd Design, React Query, Axios, React Hook Form
+---
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height=30px></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height=30px></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height=30px></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height=30px></code>
-<code><img src="https://scss.rs/wp-content/uploads/2020/06/logo-gold-gradient-1.png" height=30px></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=30px></code>
-<code><img src="https://www.shutterstock.com/image-vector/ant-vector-design-logo-illustration-600w-1642003918.jpg" height=30px></code>
-<code><img src="https://www.futuromediagroup.org/wp-content/uploads/2022/11/FM_News_500-2.png" height=30px></code>
-<code><img src="https://i.ytimg.com/vi/nF4vw3efUwY/maxresdefault.jpg" height=30px></code>
-<code><img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" height=30px></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height=30px></code>
+### 🛠 My Skills
 
-<br/>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height="30px"></code>
+<code><img src="https://scss.rs/wp-content/uploads/2020/06/logo-gold-gradient-1.png" height="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30px"></code>
+<code><img src="https://www.shutterstock.com/image-vector/ant-vector-design-logo-illustration-600w-1642003918.jpg" height="30px"></code>
+<code><img src="https://i.ytimg.com/vi/nF4vw3efUwY/maxresdefault.jpg" height="30px"></code>
+<code><img src="https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png" height="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="30px"></code>
 
+---
 
--&nbsp; Current location: Tashkent, Uzbekistan. <br/>
--&nbsp; Ask me any questions about related to Front-End. I will be happy if you ask. <br/>
--&nbsp; How you contact me : https://instagram.com/akmaljonmordayev/ <br/>
+### 🌐 Connect with me
 
+- 📍 Location: Tashkent, Uzbekistan  
+- 📫 Contact me: [Instagram](https://instagram.com/akmaljonmordayev/)  
+- 💬 Ask me about Front-End, React, JS, UI/UX design  
+
+---
+
+### 🚀 About Me
+
+I’m a **passionate Front-End Developer** with experience in building dynamic, responsive websites.  
+I love working with **React, JavaScript, CSS frameworks, and modern web technologies** to create engaging user experiences.  
+
+**What I bring to the table:**
+- Clean, maintainable, and efficient code.  
+- Expertise in modern Front-End libraries and tools.  
+- Enthusiasm for learning and staying up-to-date with the latest web trends.  
+- Problem-solving skills to tackle complex UI challenges.  
+
+---
+
+### 💡 Fun Facts
+- I enjoy **creating interactive web interfaces**.  
+- I love **experimenting with animations, transitions, and modern UI effects**.  
+- Always **keen on learning new Front-End technologies**.  
+
+---
+
+### 📊 GitHub Stats
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmaljonmordayev&show_icons=true&theme=radical)
 
-
-
-<!--
-**akmaljonmordayev/akmaljonmordayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmaljonmordayev&layout=compact&theme=radical)
