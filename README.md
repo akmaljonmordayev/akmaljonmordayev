@@ -1,4 +1,4 @@
-### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px>
+1### Hi, I am Mordayev Akmaljon <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px>
 
 
 I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, React, Antd Design, React Query, Axios, React Hook Form
@@ -23,7 +23,8 @@ I am Front-End developer. I know Html, Css, Bootstrap, Sass, Scss, JavaScript, R
 -&nbsp; How you contact me : https://instagram.com/akmaljonmordayev/ <br/>
 
 
-<img src="https://raw.githubusercontent.com/yourusername/snake/main/snake.gif" width="100%" />
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
