@@ -24,7 +24,7 @@ I specialize in creating **responsive, interactive, and user-friendly interfaces
 
 - 📍 **Location:** Tashkent, Uzbekistan  
 - 📫 **Instagram:** [@akmaljonmordayev](https://instagram.com/akmaljonmordayev/)
-- - 📫 **LinkedIn:** [https://www.linkedin.com/in/akmaljon-mordayev-183352275/)  
+- 📫 **LinkedIn:** [https://www.linkedin.com/in/akmaljon-mordayev-183352275/)  
 - 💬 **Telegram:**  
   <a href="https://t.me/Mr_Akmal_dev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
