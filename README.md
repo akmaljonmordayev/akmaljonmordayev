@@ -32,7 +32,7 @@
 const akmaljon = {
   role: "Full-Stack Developer & Startup Founder",
   location: "Tashkent, Uzbekistan 🇺🇿",
-  experience: "2+ years building production apps",
+  experience: "4+ years building production apps",
   currentFocus: [
     "🏗️  Scaling 3 active SaaS platforms",
     "👨‍🏫 Mentoring 400+ students at MARS IT",
