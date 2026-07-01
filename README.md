@@ -59,7 +59,7 @@ const akmaljon = {
     <td width="50%" valign="top">
 
 ### 💼 Professional Track Record
-- **2+ years** as Full-Stack Developer
+- **4+ years** as Full-Stack Developer
 - **400+ students** mentored at MARS IT
 - **6+ web apps** with 98% Lighthouse score
 - **3 active SaaS** platforms in production
